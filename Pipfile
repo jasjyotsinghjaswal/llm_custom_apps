@@ -1,0 +1,48 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+python-dotenv = "*"
+jupyterlab = "*"
+ipywidgets = "*"
+requests = "*"
+numpy = "*"
+pandas = "*"
+scipy = "*"
+scikit-learn = "*"
+matplotlib = "*"
+gensim = "*"
+torch = "*"
+transformers = "*"
+tqdm = "*"
+openai = "*"
+gradio = "*"
+tiktoken = "*"
+faiss-cpu = "*"
+langchain-openai = "*"
+langchain-experimental = "*"
+langchain-chroma = "*"
+langchain = {extras = ["docarray"], version = "*"}
+datasets = "*"
+sentencepiece = "*"
+google-generativeai = "*"
+anthropic = "*"
+unstructured = "*"
+chromadb = "*"
+plotly = "*"
+jupyter-dash = "*"
+beautifulsoup4 = "*"
+pydub = "*"
+modal = "*"
+ollama = "*"
+accelerate = "*"
+bitsandbytes = "*"
+psutil = "*"
+speedtest-cli = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11.11"
