@@ -42,6 +42,7 @@ accelerate = "*"
 bitsandbytes = "*"
 psutil = "*"
 speedtest-cli = "*"
+openpyxl = "*"
 
 [dev-packages]
 
