@@ -43,6 +43,7 @@ bitsandbytes = "*"
 psutil = "*"
 speedtest-cli = "*"
 openpyxl = "*"
+xlwings = "*"
 
 [dev-packages]
 
