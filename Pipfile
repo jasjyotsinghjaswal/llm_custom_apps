@@ -44,6 +44,7 @@ psutil = "*"
 speedtest-cli = "*"
 openpyxl = "*"
 xlwings = "*"
+markdown = "*"
 
 [dev-packages]
 
