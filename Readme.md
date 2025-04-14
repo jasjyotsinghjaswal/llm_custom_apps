@@ -15,6 +15,9 @@ Modify the value for HF_TOKEN to reflect your Hugging Face token and replace val
 ```sh
 HF_TOKEN=hf_XXXX
 PROJECT_PATH=D:\gitprojects
+OPEN_AI_TOKEN=sk-XXXXXXX
+
+
 ```
 
 ## 3. Create Conda Environment
