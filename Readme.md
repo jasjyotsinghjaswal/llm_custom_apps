@@ -109,5 +109,9 @@ Currently, it’s powered by 𝗤𝘄𝗲𝗻/𝗤𝘄𝗲𝗻𝟮.𝟱-𝗖𝗼
 Since 𝗼𝗽𝗲𝗻𝗽𝘆𝘅𝗹 has its limitations with formula extraction, the app uses the 𝘅𝗹𝘄𝗶𝗻𝗴𝘀 library, which connects natively to Excel. That means it’s deployable only on a server with an active 𝗘𝘅𝗰𝗲𝗹 𝗶𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻.
 
 If you’re a Data Engineer dealing with spreadsheets or a BA tired of translating formulas, this is for you! Let’s streamline that workflow and focus on what matters.
+Video Link: 
+
+https://github.com/user-attachments/assets/cd77570c-bb08-46bb-acd6-fa288b179c50
+
 
 Repo link : https://lnkd.in/egG62Uit
